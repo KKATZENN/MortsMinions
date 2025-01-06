@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2028"
 owner_name: John Mortensen
 github_username: KKATZENN
-github_repo: "CSSE-GROUP" 
-baseurl: "/CSSE-GROUP"
+github_repo: "MortsMinions" 
+baseurl: "/MortsMinions"
 future: true
 remote_theme: jekyll/minima
 minima:

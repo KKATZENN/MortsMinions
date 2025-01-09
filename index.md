@@ -5,4 +5,4 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+# Go to blogs to check out our Boolean lessons!
